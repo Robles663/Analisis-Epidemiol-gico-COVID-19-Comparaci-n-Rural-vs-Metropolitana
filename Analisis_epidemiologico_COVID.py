@@ -3,9 +3,8 @@ import plotly_express as px
 from scipy.stats import ttest_ind
 
 confirm_case = pd.read_csv(
-    r"C:\Users\TuUsuario\Proyectos\Analisis-Epidemiologico-COVID-19-Comparacion-Rural-vs-Metropolitana\Dataframe\Casos_Diarios_Municipio_Confirmados_20230625.csv"
+    r".\Casos_Diarios_Municipio_Confirmados_20230625.csv"
 )
-
 
 # Modificar el dataframe para que las fechas se coloque en 1 columna
 confirm_case_modify = confirm_case.melt(
