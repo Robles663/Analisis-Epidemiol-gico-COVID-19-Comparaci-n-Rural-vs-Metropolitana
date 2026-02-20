@@ -9,9 +9,14 @@ El objetivo principal es evaluar si el comportamiento del contagio difiere entre
 - Comparación estadística entre distribuciones
 
 El análisis busca responder si el tipo de municipio influye en la evolución del contagio o si ambos presentan patrones estadísticamente similares.
+
 ---
+
 ### Objetivo
 Comparar la dinámica del contagio entre el municipio con mayor incidencia rural y el metropolitano mediante tasas normalizadas por población y análisis temporal alrededor del pico epidemiológico.
+
 ---
+
 ### Resultados principales
 Comparar la dinámica del contagio entre el municipio con mayor incidencia rural y el metropolitano mediante tasas normalizadas por población y análisis temporal alrededor del pico epidemiológico.
+![alt text](Comparacion_dinamica_alrededor_de_pico.png)
