@@ -4,13 +4,14 @@ Este proyecto realiza un análisis comparativo de la dinámica de contagio de CO
 ## Objetivo 
 Este proyecto analiza la dinámica de contagios de COVID-19 en municipios rurales y metropolitanos de México, con el fin de identificar diferencias en la propagación alrededor del pico de contagios.
 
-- Ajuste por tamaño poblacional
-- Identificación de picos epidemiológicos
-- Análisis temporal alrededor del pico de contagio
-- Comparación estadística entre distribuciones
-
-El análisis busca responder si el tipo de municipio influye en la evolución del contagio o si ambos presentan patrones estadísticamente similares.
-
+## Metodologia
+1. **Normalización poblacional** Se calcularon tasas de contagio por cada 100,000 habitantes para permitir comparaciones justas entre municipios de distinto tamaño.
+2. **Suavizado de datos** Se aplicó un suavizado temporal a los casos semanales con el fin de reducir ruido estadístico y resaltar tendencias reales.
+3. **Identificación de picos** Se determinaron los periodos críticos en los que los casos superaban un umbral epidemiológico, identificando el mes de mayor incidencia.
+4. **Ventana temporal alrededor del pico** Se construyó una ventana de análisis que abarca dos meses antes, el mes del pico y dos meses después, para evaluar la forma de la curva epidemiológica.
+5. **Curva media de contagio** Se calculó la media de contagios en cada posición relativa al pico, describiendo la evolución previa, la intensidad máxima y la velocidad de descenso.
+6. **Prueba estadística (t-test)** Se aplicó una prueba t de Student para comparar las distribuciones rurales y metropolitanas. El resultado mostró un p-value extremadamente bajo, confirmando diferencias estadísticamente significativas.
+   
 ## Resultados principales
 ### Grafica comparativa
 <img width="650" height="450" alt="Comparacion_dinamica_alrededor_de_pico" src="https://github.com/user-attachments/assets/35018ba0-2b6a-4967-ae1d-74d1154eb146" />  
