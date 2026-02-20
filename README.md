@@ -22,7 +22,7 @@ t = 34.09, p-value ≈ 4.19e-194.
 El resultado confirma que la diferencia entre municipios metropolitanos y rurales es **estadísticamente significativa**.
 
 ## Conclusión
-Los municipios metropolitanos presentaron tasas de contagio mucho más altas y concentradas alrededor del pico, mientras que los rurales tuvieron un impacto más moderado. Esto evidencia cómo la densidad poblacional y la movilidad urbana influyen de manera crítica en la propagación del COVID-19.
+Los municipios metropolitanos presentaron tasas de contagio mucho más altas y concentradas alrededor del pico, mientras que los rurales tuvieron un impacto más moderado. Además, la curva rural muestra una pendiente más ligera después del pico, lo que indica que, aunque el número de casos es menor, el descenso ocurre de manera más lenta en comparación con las áreas metropolitanas. Esta diferencia puede estar relacionada con la menor accesibilidad a servicios de atención médica en zonas rurales, en contraste con la disponibilidad más amplia en áreas metropolitanas. En conjunto, los resultados evidencian cómo la densidad poblacional y la infraestructura sanitaria influyen en la rapidez y magnitud de la propagación del COVID-19.
 
 ## Reproducir el análisis
 1. Clonar el repositorio:
