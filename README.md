@@ -18,7 +18,8 @@ El análisis busca responder si el tipo de municipio influye en la evolución de
 La gráfica muestra que los municipios metropolitanos alcanzaron tasas de contagio cercanas a **50 casos por cada 100k habitantes** en el pico, mientras que los municipios rurales llegaron a aproximadamente **13 casos por cada 100k habitantes**.
 
 ### Prueba t-test
-t = 34.09
+t = 34.09  
+
 p-value ≈ 4.19e-194
 El resultado confirma que la diferencia entre municipios metropolitanos y rurales es **estadísticamente significativa**.
 
