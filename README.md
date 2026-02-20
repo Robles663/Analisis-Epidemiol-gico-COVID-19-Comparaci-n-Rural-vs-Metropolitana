@@ -1,0 +1,1 @@
+# Analisis-Epidemiol-gico-COVID-19-Comparaci-n-Rural-vs-Metropolitana
