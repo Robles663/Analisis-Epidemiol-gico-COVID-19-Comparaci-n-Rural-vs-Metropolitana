@@ -19,4 +19,5 @@ Comparar la dinámica del contagio entre el municipio con mayor incidencia rural
 
 ### Resultados principales
 Comparar la dinámica del contagio entre el municipio con mayor incidencia rural y el metropolitano mediante tasas normalizadas por población y análisis temporal alrededor del pico epidemiológico.
-![alt text](Comparacion_dinamica_alrededor_de_pico.png)
+<img width="650" height="450" alt="Comparacion_dinamica_alrededor_de_pico" src="https://github.com/user-attachments/assets/35018ba0-2b6a-4967-ae1d-74d1154eb146" />
+
